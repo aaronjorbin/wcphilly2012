@@ -1,0 +1,33 @@
+.slide h2{
+    border: none;
+    text-align: center;
+    font-size: 225%;
+}
+
+.slide blockquote{
+    font-size: 14em;
+    text-align:center;
+}
+
+.slide blockquote p a{
+    text-decoration: none;
+}
+
+body{
+    font-family: 'Sorts Mill Goudy', serif;
+}
+
+#less____sass____stylus h1 a{
+    color: #3e3e3e;
+
+}
+
+h1 a,
+h2 a{
+    text-decoration: none;
+}
+
+h1 a:hover,
+h2 a:hover{
+    text-decoration : underline;
+}
