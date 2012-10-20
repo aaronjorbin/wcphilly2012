@@ -34,7 +34,9 @@
 
 *   # You Didn't Build That
 
-*   # 
+*   # Malarkey : Irish for you didn't test your code
+
+*   # My code looks like a bean 
 
 *   # Unit Testing is GLORIUS
 
@@ -70,13 +72,15 @@
 
 *   # [Confess.js](https://github.com/jamesgpearce/confess)
 
-*   # ## Confess.js
+*   # Fastest Resource
 
-    * Fastest Resource
-    * Slowest Resource
-    * Smallest Resource
-    * Largest Resource
-    * ASCII-art waterfall of the waits and receipts of each requested resource
+*   # Slowest Resource
+
+*   # Smallest Resource
+
+*   # Largest Resource
+
+*   # ASCII-art waterfall of the waits and receipts of each requested resource
 
 *   # HAR (http archive)
 
@@ -90,7 +94,7 @@
 
 *   # If you don't have a build script, you're doing_it_wrong()&trade;
 
-*   # Build Scripts are great, you should binders filled with them
+*   # Build Scripts are great, you should have binders filled with them
 
 *   # SVG & Canvas to png
 
