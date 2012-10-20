@@ -12,9 +12,9 @@
 
 *   # The headless browser is HERE TODAY
 
-*   # it's name is PHANTOMJS
+*   # It's name is PHANTOMJS
 
-*   # And it is as powerfull as you fear
+*   # And it is as powerful as you fear
 
 *   # Let's look at some things we can do:
 
@@ -38,7 +38,7 @@
 
 *   # My code looks like a bean 
 
-*   # Unit Testing is GLORIUS
+*   # Unit Testing is GLORIOUS
 
 *   # [Grunt](http://gruntjs.com/) Can run our test for us automagically
 
@@ -102,18 +102,23 @@
 
 *   # Appcache manifest
 
-*   # Never worry about your theme's screenshots being out of date
+*   # Never worry about your theme's screen shots being out of date
 
 *   # Now What?
 
-*   # [CasperJS Exercies](https://github.com/subelsky/casperjs_exercises)
-
 *   # [Intro to PhantomJS and CasperJS](http://www.youtube.com/watch?v=NBxd0VrIpXM&feature=youtu.be)
+
+*   # [CasperJS Exercises](https://github.com/subelsky/casperjs_exercises)
 
 *   # [PhantomJS Related Projects](https://github.com/ariya/phantomjs/wiki/Related-Projects)
 
 *   # [Testing Google Analytics with PhantomJS](http://viget.com/extend/testing-google-analytics-with-phantomjs)
 
+*   # [slippy](https://github.com/Seldaek/slippy)
+
 *   # <a href="http://www.amazon.com/gp/product/B008HUMTO0/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B008HUMTO0&linkCode=as2&tag=aarojorb-20">Effective Programming: More Than Writing Code</a>
 
-<!-- Do not fear the headless beast for it's --> 
+*   # Do not fear the headless beast
+
+*   # Aaron Jorbin
+
